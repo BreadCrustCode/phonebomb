@@ -1,1 +1,1 @@
-# sms-bomber
+# sms bomber ment to bomb
